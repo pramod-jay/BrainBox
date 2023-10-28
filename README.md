@@ -33,5 +33,3 @@ To get started, click on any project above to delve into the world of knowledge 
 </div>
 
 [Visit our GitHub Repository](https://github.com/your-organization-name/your-knowledge-repo)
-
-![Knowledge Repository](repository-image.png)
