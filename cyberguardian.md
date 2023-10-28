@@ -26,7 +26,6 @@ CyberGuardian is a multifaceted cybersecurity program designed to safeguard our 
 - [Incident Documentation](cyberguardian-incident-documentation.md)
 - [Backup & Recovery](cyberguardian-backup-recovery.md)
 - [Collaboration](cyberguardian-collaboration.md)
-- [Contributors](cyberguardian-contributors.md)
 
 ---
 
