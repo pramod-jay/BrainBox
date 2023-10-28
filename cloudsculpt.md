@@ -8,16 +8,16 @@ CloudSculpt represents a transformative journey into the world of cloud computin
 
 ## Discussions
 
-- [Architecture](cloudsculpt-architecture.md)
-- [Cloud Migration](cloudsculpt-migration.md)
-- [Security in the Cloud](cloudsculpt-security.md)
-- [Scaling & Performance](cloudsculpt-scaling.md)
-- [Cost Optimization](cloudsculpt-cost-optimization.md)
-- [Deployment Strategies](cloudsculpt-deployment.md)
-- [Cloud Services](cloudsculpt-services.md)
-- [Governance & Compliance](cloudsculpt-governance.md)
-- [Training & Skills](cloudsculpt-training.md)
-- [Collaboration](cloudsculpt-collaboration.md)
+- [Architecture](#)
+- [Cloud Migration](#)
+- [Security in the Cloud](#)
+- [Scaling & Performance](#)
+- [Cost Optimization](#)
+- [Deployment Strategies](#)
+- [Cloud Services](#)
+- [Governance & Compliance](#)
+- [Training & Skills](#)
+- [Collaboration](#)
 
 ---
 
