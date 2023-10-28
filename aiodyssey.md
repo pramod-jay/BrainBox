@@ -8,15 +8,15 @@ AI Odyssey is a deep dive into artificial intelligence, machine learning, and da
 
 ## Discussions
 
-- [AI Algorithms](aiodyssey-algorithms.md)
-- [AI Applications](aiodyssey-applications.md)
-- [Data Science](aiodyssey-datascience.md)
-- [Deep Learning](aiodyssey-deeplearning.md)
-- [Natural Language Processing](aiodyssey-nlp.md)
-- [Computer Vision](aiodyssey-computervision.md)
-- [AI Ethics](aiodyssey-ethics.md)
-- [AI Research](aiodyssey-research.md)
-- [AI in Healthcare](aiodyssey-healthcare.md)
+- [AI Algorithms](#)
+- [AI Applications](#)
+- [Data Science](#)
+- [Deep Learning](#)
+- [Natural Language Processing](#)
+- [Computer Vision](#)
+- [AI Ethics](#)
+- [AI Research](#)
+- [AI in Healthcare](#)
 
 ---
 
