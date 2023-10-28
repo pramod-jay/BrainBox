@@ -8,15 +8,15 @@ TechTrendsetters is your gateway to the world of emerging technologies and trend
 
 ## Discussions
 
-- [Emerging Technologies](techtrendsetters-technologies.md)
-- [Innovative Trends](techtrendsetters-trends.md)
-- [Tech Startups](techtrendsetters-startups.md)
-- [Tech Influencers](techtrendsetters-influencers.md)
-- [Future Tech Challenges](techtrendsetters-challenges.md)
-- [Tech Events](techtrendsetters-events.md)
-- [Tech Publications](techtrendsetters-publications.md)
-- [Tech for Good](techtrendsetters-forgood.md)
-- [Contributors](techtrendsetters-contributors.md)
+- [Data Visualization](#)
+- [Analysis Techniques](#)
+- [Data Integration](#)
+- [Machine Learning](#)
+- [Big Data Technologies](#)
+- [Data Governance](#)
+- [Data Storytelling](#)
+- [Data Ethics](#)
+- [Collaboration](#)
 
 ---
 
