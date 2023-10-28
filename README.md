@@ -32,4 +32,4 @@ To get started, click on any project above to delve into the world of knowledge 
 
 </div>
 
-[Visit our GitHub Repository](https://github.com/your-organization-name/your-knowledge-repo)
+[Visit our GitHub Repository](https://github.com/pramod-jay/BrainBox.git)
