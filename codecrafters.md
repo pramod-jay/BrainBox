@@ -69,4 +69,4 @@ Meet the dedicated individuals who contribute to the success of the CodeCrafters
 - Laura Parker: Technical Writer
 - Michael Wilson: Open Source Enthusiast
 
-[Click here](codecrafters-contributors.md) to see the full list of contributors and their roles in the CodeCrafters project.
+[Click here](README.md) to go to the main dashboard.
