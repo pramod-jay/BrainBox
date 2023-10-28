@@ -8,15 +8,15 @@ DataMosaic is a journey into the world of data analytics and insights. We are pa
 
 ## Discussions
 
-- [Data Visualization](datamosaic-visualization.md)
-- [Analysis Techniques](datamosaic-analysis.md)
-- [Data Integration](datamosaic-integration.md)
-- [Machine Learning](datamosaic-machine-learning.md)
-- [Big Data Technologies](datamosaic-big-data.md)
-- [Data Governance](datamosaic-governance.md)
-- [Data Storytelling](datamosaic-storytelling.md)
-- [Data Ethics](datamosaic-ethics.md)
-- [Collaboration](datamosaic-collaboration.md)
+- [Data Visualization](#)
+- [Analysis Techniques](#)
+- [Data Integration](#)
+- [Machine Learning](#)
+- [Big Data Technologies](#)
+- [Data Governance](#)
+- [Data Storytelling](#)
+- [Data Ethics](#)
+- [Collaboration](#)
 
 ---
 
