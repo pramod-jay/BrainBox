@@ -18,7 +18,6 @@ CloudSculpt represents a transformative journey into the world of cloud computin
 - [Governance & Compliance](cloudsculpt-governance.md)
 - [Training & Skills](cloudsculpt-training.md)
 - [Collaboration](cloudsculpt-collaboration.md)
-- [Contributors](cloudsculpt-contributors.md)
 
 ---
 
