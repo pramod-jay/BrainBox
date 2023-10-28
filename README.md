@@ -26,7 +26,7 @@ To get started, click on any project above to delve into the world of knowledge 
 
 ## Features
 
-- [Dashboard](index.md)
+- [Dashboard](README.md)
 - [Leaderboard](leaderboard.md)
 - [About](about.md)
 - [Chat](chat.md)
