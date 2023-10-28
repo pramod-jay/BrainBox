@@ -6,7 +6,7 @@ CodeCrafters is the heart of our software development initiatives. Explore this 
 
 CodeCrafters is dedicated to the art and science of software development. We are committed to crafting efficient, robust, and innovative software solutions that drive technological progress.
 
-## Subsections
+## Discussions
 
 - [Best Practices](codecrafters-practices.md)
 - [Development Frameworks](codecrafters-frameworks.md)
