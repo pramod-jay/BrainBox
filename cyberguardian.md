@@ -41,4 +41,4 @@ Our CyberGuardian project is the result of collective expertise and dedication. 
 - Sarah Brown: Network Security Specialist
 - David White: Incident Response Manager
 
-[Click here](README.md) to go the main dashboard.
+[Click here](README.md) to go to the main dashboard.
