@@ -17,7 +17,6 @@ DataMosaic is a journey into the world of data analytics and insights. We are pa
 - [Data Storytelling](datamosaic-storytelling.md)
 - [Data Ethics](datamosaic-ethics.md)
 - [Collaboration](datamosaic-collaboration.md)
-- [Contributors](datamosaic-contributors.md)
 
 ---
 
