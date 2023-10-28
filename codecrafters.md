@@ -8,16 +8,16 @@ CodeCrafters is dedicated to the art and science of software development. We are
 
 ## Discussions
 
-- [Best Practices](codecrafters-practices.md)
-- [Development Frameworks](codecrafters-frameworks.md)
-- [Software Architecture](codecrafters-architecture.md)
-- [Version Control](codecrafters-version-control.md)
-- [Code Reviews](codecrafters-code-reviews.md)
-- [Continuous Integration](codecrafters-ci.md)
-- [Testing Strategies](codecrafters-testing.md)
-- [Documentation](codecrafters-documentation.md)
-- [Open Source Contributions](codecrafters-open-source.md)
-- [Contributors](codecrafters-contributors.md)
+- [Best Practices](#)
+- [Development Frameworks](#)
+- [Software Architecture](#)
+- [Version Control](#)
+- [Code Reviews](#)
+- [Continuous Integration](#)
+- [Testing Strategies](#)
+- [Documentation](#)
+- [Open Source Contributions](#)
+- [Contributors](#)
 
 ---
 
