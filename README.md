@@ -28,7 +28,7 @@ To get started, click on any project above to delve into the world of knowledge 
 - [Leaderboard](leaderboard.md)
 - [About](about.md)
 - [Chat](chat.md)
-- [Discussion Forum](discussion.md)
+- [Public Discussion Forum](discussion.md)
 
 </div>
 
