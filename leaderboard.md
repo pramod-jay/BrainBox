@@ -1,5 +1,5 @@
-# Leader Board
+# Leader board
 
-Public discussion section is available for all the members in the organization. Here the most recent discussions will be available and sorted based on the time published. A searching option is available for the users to filter the topics content wise. When publishing discussions to the public discussion forum the writers should give relevant keywords regarding the content, for better accessing and convenience. Number of votes for a discussion, writers name etc. will be displayed here. Also, users can give their voting for these discussions too. Moreover, for clarifications users can contact the writer personally via chat button.
+Leader Board of the knowledge repository works as an incentive to the users. It lists down the rankings of the contributors to the discussions. Top rankers will be displayed on top. Rankings will be given based on the voting and reputations of a writer. Reputation is captured based on how many discussions he/she have contributed. Voting is number of recommendations taken for a particular solution of a discussion. Each user can identify their current standing through the lead board. User’s ranking will be displayed separately for convenience.
 
 [Click here](README.md) to go to the main dashboard.
